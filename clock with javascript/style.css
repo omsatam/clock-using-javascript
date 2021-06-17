@@ -4,6 +4,7 @@
 }
 
 #clock-container{
+    top: 40%;
     position:relative;
     background: url(Img/clockbg.png);
     background-size: cover;
